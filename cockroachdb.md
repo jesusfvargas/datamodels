@@ -7,5 +7,5 @@ scalability and resilience. It follows a relational data model and uses a client
 
 ### Java 
 Developers can access CockroachDB using the JDBC driver (https://www.cockroachlabs.com/docs/stable/build-a-java-app-with-cockroachdb.html), while 
-###Python 
+### Python 
 Developers can use the psycopg2 library (https://www.psycopg.org/).
