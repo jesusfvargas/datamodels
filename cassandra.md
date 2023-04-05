@@ -1,4 +1,4 @@
-#Apache Cassandra
+# Apache Cassandra
 Website: http://cassandra.apache.org/
 
 ## Accessing Cassandra
