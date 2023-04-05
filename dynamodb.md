@@ -7,8 +7,10 @@ and is designed for low-latency, high-throughput operations.
 It is hosted as a managed service on AWS, using a 
 client/server model. 
 
-### Java developers can access DynamoDB using the AWS SDK for Java (https://aws.amazon.com/sdk-for-java/), 
+### Java 
+Developers can access DynamoDB using the AWS SDK for Java (https://aws.amazon.com/sdk-for-java/), 
 while 
 
-### Python developers can use the Boto3 library 
+### Python 
+Developers can use the Boto3 library 
 (https://boto3.amazonaws.com/v1/documentation/api/latest/index.html).
